@@ -4,7 +4,7 @@ The project should help with mastering a foundational skill for organic chemistr
 ### Details
 - 2D constructor of molecules
 - shows the formula for the constructed alkane without radicals
-- names the main chain
+- names the main chain and displays its length
 - uses Python (Pygame)
 
 ### Instructions
